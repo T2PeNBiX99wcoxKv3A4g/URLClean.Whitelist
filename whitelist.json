@@ -6,6 +6,9 @@
     ],
     "/redirect": [
       "q"
+    ],
+    "/results": [
+      "search_query"
     ]
   },
   "www.google.com": {
