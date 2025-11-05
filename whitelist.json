@@ -1,0 +1,8 @@
+{
+  "www.youtube.com": {
+    "/watch": [
+      "v",
+      "list"
+    ]
+  }
+}
