@@ -25,7 +25,9 @@ jobs:
         run: git pull
 
       - name: Create sha256 file
-        run: sha256sum whitelist.json > whitelist.json.sha256
+        run: |
+          sha256sum whitelist.json > whitelist.json.sha256
+          sha256sum blacklist.json > blacklist.json.sha256
 
       - name: Set git user
         uses: fregante/setup-git-user@v2
