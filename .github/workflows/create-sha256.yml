@@ -37,7 +37,7 @@ jobs:
         run: git add .
 
       - name: Commit changed files
-        run: "git commit -m 'Action: Update version in `pyproject.toml` and update `CHANGELOG.md`'"
+        run: "git commit -m 'Action: Update `.sha256` file'"
 
       - name: Fetch from master
         run: git fetch origin master
