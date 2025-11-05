@@ -3,6 +3,9 @@
     "/watch": [
       "v",
       "list"
+    ],
+    "/redirect": [
+      "q"
     ]
   }
 }
