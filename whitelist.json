@@ -7,5 +7,10 @@
     "/redirect": [
       "q"
     ]
+  },
+  "google.com": {
+    "/search": [
+      "q"
+    ]
   }
 }
