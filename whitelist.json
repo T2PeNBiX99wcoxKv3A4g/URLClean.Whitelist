@@ -20,5 +20,10 @@
     "/api/appid.php": [
       "appid"
     ]
+  },
+  "link.pixiv.net": {
+    "/ls/click": [
+      "upn"
+    ]
   }
 }
