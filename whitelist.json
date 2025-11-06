@@ -11,6 +11,11 @@
       "search_query"
     ]
   },
+  "music.youtube.com": {
+    "/watch": [
+      "v"
+    ]
+  },
   "www.google.com": {
     "/search": [
       "q"
