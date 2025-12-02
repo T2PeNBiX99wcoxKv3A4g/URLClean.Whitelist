@@ -35,5 +35,10 @@
     "/home/launch": [
       "worldId"
     ]
+  },
+  "blendermarket.com": {
+    "/confirmation": [
+      "confirmation_token"
+    ]
   }
 }
